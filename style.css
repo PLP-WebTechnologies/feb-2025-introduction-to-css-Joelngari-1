@@ -1,0 +1,26 @@
+/* Selector 1: Class */
+.title {
+    color: blue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Selector 2: ID */
+#main-container {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 10px;
+}
+
+/* Selector 3: Element */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Styling an image */
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
